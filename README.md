@@ -1,4 +1,4 @@
-# Eye contact detection using Generative Synthesized Image based Gaze Estimation
+# Generative modelling for Appearance based Gaze estimation
 This repository contains the implementation of the research project.
 
 ## Requirements
